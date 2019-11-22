@@ -54,5 +54,4 @@ Construction  civil engineer         2002-2008
  
    python challenge,    fall 2019
                                                                                             Transitions to Success ( English and Computer Course)  Spring 2018
-# leap
-my resume
+
